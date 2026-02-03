@@ -1,4 +1,4 @@
-i commit <i>intresting</i>
+i commit <i>interesting</i>
 <>
 content
 
