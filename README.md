@@ -16,4 +16,77 @@ projects you *have* to checkout
 - [Hexar](https://github.com/prisect/hexar): 6 antennas, 1 brain.
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 39.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 178 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 23 Public Repositories 
+ > 
+> 🔑 8 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                299 commits         ██████░░░░░░░░░░░░░░░░░░░   25.82 % 
+🌆 Daytime                351 commits         ████████░░░░░░░░░░░░░░░░░   30.31 % 
+🌃 Evening                492 commits         ███████████░░░░░░░░░░░░░░   42.49 % 
+🌙 Night                  16 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   147 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+Tuesday                  123 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+Wednesday                136 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
+Thursday                 209 commits         █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
+Friday                   86 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+Saturday                 264 commits         ██████░░░░░░░░░░░░░░░░░░░   22.80 % 
+Sunday                   193 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Paris
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in C** 
+
+```text
+Rust                     6 repos             █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+C++                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/prisect/prisect/main/assets/bar_graph.png)
+
+
+ Last Updated on 22/04/2026 19:47:26 UTC
 <!--END_SECTION:waka-->
