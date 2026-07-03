@@ -15,3 +15,4 @@ projects you *have* to checkout
 - [DAVP](https://github.com/davpfoundation/davp): Decentralized Asset Verification Protocol
 - [DimaNet](https://github.com/prisect/dimanet): Just a bad integration of AI
 - [Hexar](https://github.com/prisect/hexar): 6 antennas, 1 brain.
+- [Mandelbrust](https://github.com/prisect/mandelbrust): just another mandelbrot explorer, focused on performance, written in rust
